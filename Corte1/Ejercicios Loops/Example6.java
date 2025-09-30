@@ -1,4 +1,4 @@
-// Program to print numbers from 1 to 5 
+// imprimir numeros del 1 al 5
 class Example6 { 
   public static void main(String[] args) { 
     int n = 5; 
