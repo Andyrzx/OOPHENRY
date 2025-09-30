@@ -1,4 +1,4 @@
-// Program to display numbers from 1 to 5 
+// numbers from 1 to 5 
 class Example1 { 
   public static void main(String[] args) { 
     int i = 1, n = 5; 
